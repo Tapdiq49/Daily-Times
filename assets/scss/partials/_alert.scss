@@ -1,0 +1,4 @@
+@mixin box-sizing($box-sizing) {
+    -webkit-box-sizing: $box-sizing;
+    box-sizing: $box-sizing;
+}
